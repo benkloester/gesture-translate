@@ -1,4 +1,3 @@
-
 /*
  * The UtilChrome global object is defined in UtilChrome.js which is
  * loaded from preferences.xul.
@@ -436,7 +435,7 @@ Components.utils.import("resource://gesturegoogtrans/GoogleTranslate.js");
 		selectedText: 			'',
 		lastSelectedText: 		'',
 		left1:					false,
-		rigth1:					false,
+		right1:					false,
 		left2: 					false,
 		right2: 				false,
 		cuu: 					null,
